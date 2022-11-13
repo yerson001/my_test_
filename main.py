@@ -6,3 +6,4 @@ class MainApp(App):
     return Button(text="Hello World")
     
 MainApp().run()
+print("hola")
